@@ -49,7 +49,7 @@ public class StudentBean02  implements  StudentInterface {
 
 	@Override
 	public String study() {
-		// TODO Auto-generated method stub
+		
 		return "StudentBean02 class indan geliyorum";
 	}
 
