@@ -1,4 +1,4 @@
-package com.techpro.springboot_kursu;
+package springboot_kurs_controller;
 
 public interface StudentInterface {  // Inreface ler iclerinde abstrac methodlar barindirir
 	

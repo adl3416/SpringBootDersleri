@@ -1,4 +1,4 @@
-package com.techpro.springboot_kursu;
+package springboot_kurs_controller;
 
 import java.util.List;
 
@@ -14,7 +14,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 
 //@Controller// Bu annotaion i koyunca SpringBoot bu class in Controller class oldugunu anlar
-@RestController
+@RestController  // 2 ısı bırden zapar
 public class StudentBean01Controller {
 
 	//@RequestMapping(method=RequestMethod.GET, path="/getRequest") // musterinin istedigini bununla karsilastir

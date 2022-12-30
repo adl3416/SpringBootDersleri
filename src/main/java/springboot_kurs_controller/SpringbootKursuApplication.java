@@ -1,4 +1,4 @@
-package com.techpro.springboot_kursu;
+package springboot_kurs_controller;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SpringbootKursuApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringbootKursuApplication.class, args);//ekledi
+		SpringApplication.run(SpringbootKursuApplication.class, args);
 	}
 
 }
