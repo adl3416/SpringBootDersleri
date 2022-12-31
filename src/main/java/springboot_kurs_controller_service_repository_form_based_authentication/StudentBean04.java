@@ -3,12 +3,14 @@ package springboot_kurs_controller_service_repository_form_based_authentication;
 import java.time.LocalDate;
 import java.time.Period;
 
-import jakarta.persistence.Entity;
 
-@Entity
+
+
+
+//@Entity
+//@Table(name="students")
 public class StudentBean04 {
-
-	
+   //@Id
 	private Long id;
 	private String name;
 	private String email;
