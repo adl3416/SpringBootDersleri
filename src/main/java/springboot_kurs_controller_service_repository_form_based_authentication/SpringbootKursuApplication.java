@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SpringbootKursuApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringbootKursuApplication.class, args);
+		SpringApplication.run(SpringbootKursuApplication.class, args); // pom  yenilendi
 	}
 
 }
