@@ -19,7 +19,7 @@ public class StudentBean05Controller {
 	@Autowired
 	public StudentBean05Controller(StudentBean05Service studentBeanService) {
 		
-		this.studentBean05Service = studentBeanService;
+		this.studentBean05Service = studentBeanService;// es
 	} 
 	
 	
